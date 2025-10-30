@@ -1,8 +1,9 @@
 # Insurance Assistant Agent
 
-An intelligent RAG (Retrieval-Augmented Generation) chatbot that helps customers with car insurance claims by leveraging web-crawled content, vector databases, and Azure OpenAI.
+An intelligent RAG (Retrieval-Augmented Generation) based chat agent that helps customers with car insurance claims by leveraging web-crawled content, vector databases, and Azure OpenAI.
 
-[Try it your self](https://huggingface.co/spaces/shobanapriyan/src)s
+[Chat with the agent here](https://huggingface.co/spaces/shobanapriyan/src)
+[Insurance company details](https://www.allianz.co.uk/insurance/car-insurance/existing-customers/claim.html)
 
 ## Overview
 
