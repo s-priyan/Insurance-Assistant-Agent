@@ -2,8 +2,8 @@
 
 An intelligent RAG (Retrieval-Augmented Generation) based chat agent that helps customers with car insurance claims by leveraging web-crawled content, vector databases, and Azure OpenAI.
 
-[Chat with the agent here](https://huggingface.co/spaces/shobanapriyan/src)\n
-[Insurance company details](https://www.allianz.co.uk/insurance/car-insurance/existing-customers/claim.html)
+- [Chat with the agent here](https://huggingface.co/spaces/shobanapriyan/src)
+- [Insurance company details](https://www.allianz.co.uk/insurance/car-insurance/existing-customers/claim.html)
 
 ## Overview
 
